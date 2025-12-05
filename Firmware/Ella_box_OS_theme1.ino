@@ -1,7 +1,7 @@
 #include <dummy.h>
 
 // ELLA-Box V1.0 by Mikrollere@Hackster.io
-//August 20, 2025
+//August 20, 2025  enjoy!
 #include <Wire.h>
 #include <U8g2lib.h>
 #include <esp_sleep.h>
@@ -554,7 +554,7 @@ public:
     int width = u8g2.getStrWidth(buf);
     u8g2.drawStr(128 - width - 2, 8, buf);
     u8g2.setFont(u8g2_font_profont12_tf); // Restore default font
-    /* Optional graphical battery icon (uncomment to enable)
+    /* Optional graphical battery icon (you can uncomment to enable)
     int barWidth = (settings.batteryPercentage * 8) / 100; // 8px max fill
     u8g2.drawFrame(108, 2, 12, 6); // Battery outline (10px wide + 2px terminal)
     u8g2.drawBox(110, 4, barWidth, 2); // Fill bar
