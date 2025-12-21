@@ -10,7 +10,7 @@
 
 ---
 
-**ELLA-Box** is a pocket-sized, hackable IoT gadget in a 3D-printed case — designed to control and monitor almost anything. Use it for smart home control, sensors, notifications, remote control, wearables, or experimental gadgets.
+**ELLA-Box** is a pocket-sized, hackable IoT gadget in a 3D-printed case — designed to control and monitor almost anything. Use it for smart home control, sensors, notifications, remote control, wearables, or experimental gadgets and even retro game console.
 
 It features a futuristic, cyberpunk-style interface (glowing OLED, tactile feedback, pulsing menus) driven by an ESP32-C3 microcontroller — low-cost, compact, and extensible.
 
