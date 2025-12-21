@@ -2,7 +2,7 @@
 
 
 [![Languages: C++ | Arduino](https://img.shields.io/badge/languages-C%2B%2B%20%7C%20Arduino-blue.svg)](#tech-stack)
-[![GitHub repo size](https://img.shields.io/github/repo-size/migit/ELLA-Box)](#)
+[![GitHub repo size](https://img.shields.io/github/repo-size/migit/Ella_box)](#)
 
 
 ![ELLA-Box Demo](https://github.com/user-attachments/assets/c1ef5312-3129-4777-a409-329eb6b0a6af)
