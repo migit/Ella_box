@@ -1,6 +1,6 @@
 # ELLA-Box — The Box You Can Hack!
 
-[![License: OSHW](https://github.com/user-attachments/assets/8db5b921-7199-43b5-9edd-f96adf9e9eec)](#license)
+
 [![Languages: C++ | Arduino](https://img.shields.io/badge/languages-C%2B%2B%20%7C%20Arduino-blue.svg)](#tech-stack)
 [![GitHub repo size](https://img.shields.io/github/repo-size/migit/ELLA-Box)](#)
 
@@ -84,9 +84,5 @@ Optional: 3D-printed enclosure / case.
 * OTA firmware updates via WiFi
 * Tiny AI/ML models interface/controller
 
----
 
-## License
-
-This project is certified as **Open Source Hardware (OSHW)** and uses open-source software licenses. See OSHWA listing and Hackster page for details.
 
