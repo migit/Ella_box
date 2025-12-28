@@ -1,7 +1,12 @@
 #include <dummy.h>
-
-// ELLA-Box V1.0 by Mikrollere@Hackster.io
-//August 20, 2025  enjoy!
+/*
+ * Project: ELLA-BOX
+ * Description:   ELLA-Box is a pocket-sized, hackable IoT gadget in a 3D-printed case — designed to control and monitor almost anything. Use it for smart home control, sensors, notifications, remote control, wearables, or experimental gadgets.
+ * Author: Michael Seyoum (https://www.hackster.io/mikroller)
+ * Created: August 22, 2025 
+ * License: GPL-3.0-only - See LICENSE file for details
+ * Repository: https://github.com/migit/Ella_box
+ */
 #include <Wire.h>
 #include <U8g2lib.h>
 #include <esp_sleep.h>
