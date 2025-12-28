@@ -3,7 +3,7 @@
 
 [![Languages: C++ | Arduino](https://img.shields.io/badge/languages-C%2B%2B%20%7C%20Arduino-blue.svg)](#tech-stack)
 [![GitHub repo size](https://img.shields.io/github/repo-size/migit/Ella_box)](#)
-
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=migit.Ella_box)
 
 ![ELLA-Box Demo](https://github.com/user-attachments/assets/c1ef5312-3129-4777-a409-329eb6b0a6af)
 
@@ -42,7 +42,7 @@ Potential uses: smart-home remote, environmental sensor hub, wearable notifier, 
 * 500 mAh LiPo battery × 1
 * 3D-printed enclosure [here](https://www.thingiverse.com/thing:7124618)
 
-![20250820_115329](https://github.com/user-attachments/assets/142e3990-71a6-4962-aded-ab9aeb58b12a)
+
 ---
 
 ## Build Instructions
