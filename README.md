@@ -31,6 +31,7 @@ Potential uses: smart-home remote, environmental sensor hub, wearable notifier, 
 
 ---
 
+
 ## Hardware Components
 
 * ESP32-C3 Dev Board × 1
@@ -41,7 +42,7 @@ Potential uses: smart-home remote, environmental sensor hub, wearable notifier, 
 * 500 mAh LiPo battery × 1
 * 3D-printed enclosure [here](https://www.thingiverse.com/thing:7124618)
 
-
+![20250820_115329](https://github.com/user-attachments/assets/142e3990-71a6-4962-aded-ab9aeb58b12a)
 ---
 
 ## Build Instructions
