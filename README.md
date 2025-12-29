@@ -9,7 +9,6 @@
 ![ESP32](https://img.shields.io/badge/platform-ESP32-blue)
 ![Open Hardware](https://img.shields.io/badge/hardware-open--source-brightgreen)
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=migit.Ella_box)
-<!--- ![ELLA-Box Demo](https://github.com/user-attachments/assets/c1ef5312-3129-4777-a409-329eb6b0a6af) --->
 <img width="1399" height="713" alt="Screenshot from 2025-12-29 18-21-50" src="https://github.com/user-attachments/assets/aa461a03-6fe7-42a3-b35b-612d42df7151" />
 
  
@@ -47,7 +46,8 @@ Potential uses: smart-home remote, environmental sensor hub, wearable notifier, 
 * TP4056 LiPo charger × 1
 * 500 mAh LiPo battery × 1
 * 3D-printed enclosure [here](https://www.thingiverse.com/thing:7124618)
-
+  <!---Preview --->
+ ![ELLA-Box Demo](https://github.com/user-attachments/assets/c1ef5312-3129-4777-a409-329eb6b0a6af)
 
 ---
 
