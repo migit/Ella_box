@@ -98,4 +98,7 @@ Potential uses: smart-home remote, environmental sensor hub, wearable notifier, 
 * [![Watch the demo](https://img.youtube.com/vi/FwfMhrrfqBY/0.jpg)](https://www.youtube.com/watch?v=FwfMhrrfqBY)
 
 
+### Licensing
+- **Software & firmware**: see `LICENSE`
+- **Hardware designs**: see `LICENSE-HARDWARE` (CERN-OHL-S)
 
