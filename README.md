@@ -5,8 +5,8 @@
 [![GitHub repo size](https://img.shields.io/github/repo-size/migit/Ella_box)](#)
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=migit.Ella_box)
 <!--- ![ELLA-Box Demo](https://github.com/user-attachments/assets/c1ef5312-3129-4777-a409-329eb6b0a6af) --->
+<img width="1399" height="713" alt="Screenshot from 2025-12-29 18-21-50" src="https://github.com/user-attachments/assets/aa461a03-6fe7-42a3-b35b-612d42df7151" />
 
-[![Watch the demo](https://img.youtube.com/vi/FwfMhrrfqBY/0.jpg)](https://www.youtube.com/watch?v=FwfMhrrfqBY)
  
 ---
 
@@ -30,6 +30,7 @@ It features a futuristic, cyberpunk-style interface (glowing OLED, tactile feedb
 Potential uses: smart-home remote, environmental sensor hub, wearable notifier, debugging tool, interactive art, or custom IoT gadget.
 
 ---
+
 
 
 ## Hardware Components
@@ -85,5 +86,5 @@ Potential uses: smart-home remote, environmental sensor hub, wearable notifier, 
 * OTA firmware updates via WiFi
 * Tiny AI/ML models interface/controller
 
-
+[![Watch the demo](https://img.youtube.com/vi/FwfMhrrfqBY/0.jpg)](https://www.youtube.com/watch?v=FwfMhrrfqBY)
 
