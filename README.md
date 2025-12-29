@@ -96,6 +96,8 @@ Potential uses: smart-home remote, environmental sensor hub, wearable notifier, 
 
 ## Demo
 
-* [![Watch the demo](https://img.youtube.com/vi/FwfMhrrfqBY/0.jpg)](https://www.youtube.com/watch?v=FwfMhrrfqBY) 
+* [![Watch the demo](https://img.youtube.com/vi/FwfMhrrfqBY/0.jpg)](https://www.youtube.com/watch?v=FwfMhrrfqBY)
+* [![Ella Box Demo](https://img.youtube.com/vi/FwfMhrrfqBY/0.jpg)](https://www.youtube.com/watch?v=FwfMhrrfqBY)
+
 
 
