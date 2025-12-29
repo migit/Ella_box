@@ -1,0 +1,74 @@
+CERN Open Hardware Licence Version 2 – Strongly Reciprocal (CERN-OHL-S)
+
+Copyright © 2025 migit
+
+This source describes Open Hardware and is licensed under the CERN-OHL-S v2.
+
+You may redistribute and modify this documentation and make products
+using it under the terms of the CERN-OHL-S v2 (https://cern.ch/cern-ohl).
+
+This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED
+WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY
+AND FITNESS FOR A PARTICULAR PURPOSE. Please see the CERN-OHL-S v2
+for applicable conditions.
+
+Source location: https://github.com/migit/Ella_box
+
+As per CERN-OHL-S v2 section 4, should You produce hardware based on
+this documentation, You must:
+- Make the complete, corresponding source documentation available
+- License it under the CERN-OHL-S v2
+- Retain all copyright notices and attribution
+
+---
+
+Full license text:
+
+CERN Open Hardware Licence Version 2 – Strongly Reciprocal (CERN-OHL-S)
+
+1. Definitions
+“Licence” means this CERN Open Hardware Licence.
+“Documentation” means any design material such as schematics,
+drawings, PCB layouts, CAD files, bills of materials, and other
+information that enables the manufacture or modification of hardware.
+“Product” means any device or physical object made using the
+Documentation.
+“Source” means the preferred form of the Documentation for making
+modifications.
+
+2. Grant of Rights
+The Licensor hereby grants You a worldwide, royalty-free, non-exclusive
+licence to use, reproduce, modify, distribute, and make Products from
+the Documentation, subject to the terms of this Licence.
+
+3. Source Availability
+You must make available the complete Source of the Documentation for
+any Product You distribute or make available, under the terms of this
+Licence.
+
+4. Reciprocity
+If You modify the Documentation or make Products based on it, You must
+license the modified Documentation under CERN-OHL-S v2 and make the
+Source available.
+
+5. Notices
+You must retain all copyright notices, licence notices, and attribution
+statements in the Documentation and Products.
+
+6. Warranty Disclaimer
+The Documentation and any Products are provided “AS IS” without
+warranty of any kind, express or implied.
+
+7. Limitation of Liability
+The Licensor shall not be liable for any damages arising from the use of
+the Documentation or Products.
+
+8. Termination
+This Licence terminates automatically if You fail to comply with its
+terms.
+
+9. Applicable Law
+This Licence is governed by applicable international copyright and
+intellectual property laws.
+
+END OF TERMS AND CONDITIONS
