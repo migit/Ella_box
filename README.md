@@ -7,6 +7,7 @@
 ![License](https://img.shields.io/github/license/migit/Ella_box)
 ![Last Commit](https://img.shields.io/github/last-commit/migit/Ella_box)
 ![ESP32](https://img.shields.io/badge/platform-ESP32-blue)
+[![YouTube](https://img.shields.io/badge/demo-YouTube-red)](https://www.youtube.com/watch?v=FwfMhrrfqBY)
 ![Open Hardware](https://img.shields.io/badge/hardware-open--source-brightgreen)
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=migit.Ella_box)
 
@@ -94,8 +95,7 @@ Potential uses: smart-home remote, environmental sensor hub, wearable notifier, 
 ---
 
 ## Demo
-  <!--- * [![Watch the demo](https://img.youtube.com/vi/FwfMhrrfqBY/0.jpg)](https://www.youtube.com/watch?v=FwfMhrrfqBY) --->
-* ![Discussions](https://img.shields.io/github/discussions/migit/Ella_box)
-* ![Contributors](https://img.shields.io/github/contributors/migit/Ella_box)
-* [![YouTube](https://img.shields.io/badge/demo-YouTube-red)](https://www.youtube.com/watch?v=FwfMhrrfqBY)
+
+* [![Watch the demo](https://img.youtube.com/vi/FwfMhrrfqBY/0.jpg)](https://www.youtube.com/watch?v=FwfMhrrfqBY) 
+
 
