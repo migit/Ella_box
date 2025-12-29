@@ -13,7 +13,6 @@
 
 <img width="1399" height="713" alt="Screenshot from 2025-12-29 18-21-50" src="https://github.com/user-attachments/assets/aa461a03-6fe7-42a3-b35b-612d42df7151" />
 
- 
 ---
 
 **ELLA-Box** is a pocket-sized, hackable IoT gadget in a 3D-printed case — designed to control and monitor almost anything. Use it for smart home control, sensors, notifications, remote control, wearables, or experimental gadgets and even retro game console.
@@ -97,7 +96,6 @@ Potential uses: smart-home remote, environmental sensor hub, wearable notifier, 
 ## Demo
 
 * [![Watch the demo](https://img.youtube.com/vi/FwfMhrrfqBY/0.jpg)](https://www.youtube.com/watch?v=FwfMhrrfqBY)
-* [![Ella Box Demo](https://img.youtube.com/vi/FwfMhrrfqBY/0.jpg)](https://www.youtube.com/watch?v=FwfMhrrfqBY)
 
 
 
