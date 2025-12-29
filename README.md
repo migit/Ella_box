@@ -9,6 +9,8 @@
 ![ESP32](https://img.shields.io/badge/platform-ESP32-blue)
 ![Open Hardware](https://img.shields.io/badge/hardware-open--source-brightgreen)
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=migit.Ella_box)
+[![YouTube](https://img.shields.io/badge/demo-YouTube-red)](https://www.youtube.com/watch?v=FwfMhrrfqBY)
+
 <img width="1399" height="713" alt="Screenshot from 2025-12-29 18-21-50" src="https://github.com/user-attachments/assets/aa461a03-6fe7-42a3-b35b-612d42df7151" />
 
  
@@ -90,7 +92,9 @@ Potential uses: smart-home remote, environmental sensor hub, wearable notifier, 
 * Games/utilities (“Snake”, menu apps)
 * OTA firmware updates via WiFi
 * Tiny AI/ML models interface/controller
-![Forks](https://img.shields.io/github/forks/migit/Ella_box?style=social)
-![Stars](https://img.shields.io/github/stars/migit/Ella_box?style=social)
-[![Watch the demo](https://img.youtube.com/vi/FwfMhrrfqBY/0.jpg)](https://www.youtube.com/watch?v=FwfMhrrfqBY)
+---
+
+## Demo
+
+* [![Watch the demo](https://img.youtube.com/vi/FwfMhrrfqBY/0.jpg)](https://www.youtube.com/watch?v=FwfMhrrfqBY)
 
