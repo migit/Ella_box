@@ -48,7 +48,14 @@ Potential uses: smart-home remote, environmental sensor hub, wearable notifier, 
 * 500 mAh LiPo battery × 1
 * 3D-printed enclosure [here](https://www.thingiverse.com/thing:7124618)
   <!---Preview --->
- ![ELLA-Box Demo](https://github.com/user-attachments/assets/c1ef5312-3129-4777-a409-329eb6b0a6af)
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/c1ef5312-3129-4777-a409-329eb6b0a6af"
+    alt="O_Range 3D Model"
+    style="max-width:100%; height:auto;"
+  />
+</p>
+
 
 ---
 
