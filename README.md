@@ -1,17 +1,21 @@
 # ELLA-Box — The Box You Can Hack!
 
+[![YouTube](https://img.shields.io/badge/demo-YouTube-red)](https://www.youtube.com/watch?v=FwfMhrrfqBY)
+
+![Open Hardware](https://img.shields.io/badge/hardware-open--source-brightgreen)
+![License](https://img.shields.io/github/license/migit/Ella_box)
+![Last Commit](https://img.shields.io/github/last-commit/migit/Ella_box)
 
 [![Languages: C++ | Arduino](https://img.shields.io/badge/languages-C%2B%2B%20%7C%20Arduino-blue.svg)](#tech-stack)
 [![GitHub repo size](https://img.shields.io/github/repo-size/migit/Ella_box)](#)
 ![Release](https://img.shields.io/github/v/release/migit/Ella_box)
 ![ESP32](https://img.shields.io/badge/platform-ESP32-blue)
-![Open Hardware](https://img.shields.io/badge/hardware-open--source-brightgreen)
-![License](https://img.shields.io/github/license/migit/Ella_box)
-![Last Commit](https://img.shields.io/github/last-commit/migit/Ella_box)
-
-[![YouTube](https://img.shields.io/badge/demo-YouTube-red)](https://www.youtube.com/watch?v=FwfMhrrfqBY)
-
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=migit.Ella_box)
+
+
+
+
+
 
 <img width="1399" height="713" alt="Screenshot from 2025-12-29 18-21-50" src="https://github.com/user-attachments/assets/aa461a03-6fe7-42a3-b35b-612d42df7151" />
 
