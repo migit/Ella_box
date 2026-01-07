@@ -46,9 +46,9 @@ Potential uses: smart-home remote, environmental sensor hub, wearable notifier, 
 * Passive Buzzer × 1
 * TP4056 LiPo charger × 1
 * 500 mAh LiPo battery × 1
-* 3D-printed enclosure [here](https://www.thingiverse.com/thing:7124618)
+* 3D-CAD design enclosure [here](https://www.thingiverse.com/thing:7124618)
   <!---Preview --->
-## 3D Case model 
+## 3D enclosure model preview 
 <p>
   <img 
     src="https://github.com/user-attachments/assets/c1ef5312-3129-4777-a409-329eb6b0a6af"
