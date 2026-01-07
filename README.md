@@ -48,7 +48,8 @@ Potential uses: smart-home remote, environmental sensor hub, wearable notifier, 
 * 500 mAh LiPo battery × 1
 * 3D-printed enclosure [here](https://www.thingiverse.com/thing:7124618)
   <!---Preview --->
-<p align="center">
+## 3D Case model 
+<p>
   <img 
     src="https://github.com/user-attachments/assets/c1ef5312-3129-4777-a409-329eb6b0a6af"
     alt="O_Range 3D Model"
@@ -61,7 +62,7 @@ Potential uses: smart-home remote, environmental sensor hub, wearable notifier, 
 
 ## Build Instructions
 
-### Hardware Wiring (Minimum requirement)
+### Wiring (Minimum requirements)
 
 * OLED: SDA → GPIO20, SCL → GPIO21
 * Rotary encoder: A → GPIO8, B → GPIO9, SW → GPIO10
