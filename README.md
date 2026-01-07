@@ -61,13 +61,16 @@ Potential uses: smart-home remote, environmental sensor hub, wearable notifier, 
 
 ## Build Instructions
 
-### Hardware Wiring
+### Hardware Wiring (Minimum requirement)
 
 * OLED: SDA → GPIO20, SCL → GPIO21
 * Rotary encoder: A → GPIO8, B → GPIO9, SW → GPIO10
 * Vibration motor → GPIO7
 * Buzzer (PWM) → GPIO6
 * Optional: LiPo + TP4056 charger for portable use
+
+<img width="1536" height="1024" alt="Ella-BoxV1 0 0_schematic_b" src="https://github.com/user-attachments/assets/ebea0e6c-6bfb-460f-90ce-d1f5bde7b8ce" />
+
 
 ### Software Setup
 
