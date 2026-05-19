@@ -1,4 +1,4 @@
-# ELLA-Box — The Box You Can Hack!
+# ELLA-Box: The Box You Can Hack!
 
 [![YouTube](https://img.shields.io/badge/demo-YouTube-red)](https://www.youtube.com/watch?v=FwfMhrrfqBY)
 ![Open Hardware](https://img.shields.io/badge/hardware-open--source-brightgreen)
